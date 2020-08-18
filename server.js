@@ -6,6 +6,7 @@
 // npm i -g nodemon  === install nodemon as a global dependencies
 // this lets us run our server without having to reopen and restart
 
+
 // step 1
 const express = require('express')
 const path = require('path')
