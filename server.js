@@ -39,6 +39,12 @@ app.listen(3000)
 
 
 
+// res === response
+// req == request 
+
+// localhost: === what we use in development in order to test our code. 
+// PORT === port is at the end of  "app.listen(3000)"
+
 // ** this would go before app.listen(3000) ** //
 
 // You need to write each function() seperately. you will use .get === is an http verb
