@@ -6,7 +6,7 @@ const path = require('path')
 const app = express()
 
 app.get('/food', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public/food.html'))
+    res.sendFile(path.join(__dirname, 'public/foods.html'))
 })
 
 app.get('/games', (req, res) => {
