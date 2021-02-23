@@ -21,5 +21,9 @@ app.get('/songs', (req, res) => {
     res.sendFile(join(__dirname, 'public/songs.html'))
 })
 
+app.post('/newContent', (req, res) => {
+    res.send('POSTED')
+})
+
 // step 3 - listen
 app.listen(3000)
