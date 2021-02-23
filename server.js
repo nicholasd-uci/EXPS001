@@ -29,16 +29,6 @@ app.post('/something', (req, res) => {
 app.listen(3000)
 
 
-//                                HTTP Verbs
-// 
-// HTTP verbs are request that the URL makes in order to retrieve the users request.
-// HTTP Verbs:
-// get    - Retrieves Information e.g. app.get
-// post   - Creates new content   e.g. app.post
-// put    - Updates new content   e.g. app.put
-// delete - Delete Information    e.g. app.delete
-
-
 // ** this would go before app.listen(3000) ** //
 
 // You need to write each function() seperately. you will use .get === is an http verb
