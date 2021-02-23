@@ -30,11 +30,13 @@ app.post('/something', (req, res) => {
 // step 3 - listen
 app.listen(3000)
 
+//          `req/res, port, & localhost`
+// 
 // res: res stands for "response"
-// req: request 
+// req: req stands for "request"
+// port: Connects free source-code to web browser -> e.g. "port(3000)"
+// localhost:3000- Default port that runs on your computer  
 
-// localhost: === what we use in development in order to test our code. 
-// PORT === port is at the end of  "app.listen(3000)"
 
 // ** this would go before app.listen(3000) ** //
 
