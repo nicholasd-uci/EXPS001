@@ -31,14 +31,6 @@ app.post('/something', (req, res) => {
 app.listen(3000)
 
 
-//                     `req/res, port, & localhost`
-// 
-// res: res stands for "response"
-// req: req stands for "request"
-// port: Connects free source-code to web browser -> e.g. "port(3000)"
-// localhost:3000- Default port that runs on your computer  
-
-
 // ** this would go before app.listen(3000) ** //
 
 // You need to write each function() seperately. you will use .get === is an http verb
