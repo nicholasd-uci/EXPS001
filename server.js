@@ -1,11 +1,10 @@
-// THIS IS THE BEST WAY TO WRITE SERVER //
+// SERVER-SIDE  //
 // install npm init -y ==== package.json
 // install npm i express === lock-.json
 // this is an express server //
 
 // npm i -g nodemon  === install nodemon as a global dependencies
 // this lets us run our server without having to reopen and restart
-
 
 // step 1
 const express = require('express')
@@ -36,8 +35,6 @@ app.post('/something', (req, res) => {
 
 // step 3 - listen
 app.listen(3000)
-
-
 
 // res === response
 // req == request 
