@@ -52,5 +52,3 @@ app.listen(3000)
 // app.get('/something', (req, res) => {
 //     console.log('Hi')
 // })
-
-
