@@ -16,7 +16,7 @@ this lets us run our server without having to reopen and restart
 
 ## Source Reference 
 
-- [npmjs](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)
 - [express](https://www.npmjs.com/package/express)
 - []()
 
