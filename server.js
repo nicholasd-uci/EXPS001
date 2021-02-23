@@ -1,10 +1,8 @@
-// this lets us run our server without having to reopen and restart
-
 // step 1
 const express = require('express')
 const path = require('path')
 
-// step 2 - call express like a function
+// step 2 - call 'express' like a function
 const app = express()
 
 app.get('/food', (req, res) => {
