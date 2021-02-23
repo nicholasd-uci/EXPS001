@@ -30,7 +30,8 @@ app.post('/something', (req, res) => {
 // step 3 - listen
 app.listen(3000)
 
-//          `req/res, port, & localhost`
+
+//                     `req/res, port, & localhost`
 // 
 // res: res stands for "response"
 // req: req stands for "request"
