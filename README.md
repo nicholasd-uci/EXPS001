@@ -36,9 +36,30 @@
 
 ## Get Method
 
+![testingGetMethod](./photos/testingGetMethod.png)
+
+    ‣ This example shows the different types of Get methods 
+    ‣ You can console log or write to a file
+    ‣ You can also send json data to the browser
+
+
 ## Browser vs Postman
 
-(two videos)
+```
+ In this section we focus on testing our HTTP routes
+ We use the browser and our terminal 
+ or
+ We use Postman to test our routes
+```
+
+***Browser Testing***
+
+![appGet](./video/appGet.gif)
+
+***Postman Testing***
+
+![postman](./video/postman.gif)
+
 
 
 ## Source Reference 
