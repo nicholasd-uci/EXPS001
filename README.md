@@ -42,7 +42,6 @@
     ‣ You can console log or write to a file
     ‣ You can also send json data to the browser
 
-
 ## Browser vs Postman
 
 ```
@@ -59,7 +58,6 @@
 ***Postman Testing***
 
 ![postman](./video/postman.gif)
-
 
 ## Source Reference 
 
