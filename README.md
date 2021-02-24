@@ -20,6 +20,12 @@
 
 ## Req Res Port & LocalHost:3000
 
+![req_res](./photos/req_res_port_localhost.png)
+
+    ‣ req & res are parameters that help request and respond with information to the user
+    ‣ Port connects your code to the web browser
+    ‣ localhost:3000 is a server for developers
+
 ## HTTP Verbs
 
 ## Get Method
