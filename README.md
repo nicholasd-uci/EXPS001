@@ -1,24 +1,39 @@
 # EXPS001
 
 ```
-
-    - Express
-
+        Index
+- Express Installation
+- Req/Res, Port, & LocalHost:3000
+- HTTP Verbs
+- Get Method 
+- Browser vs Postman
+- Source Reference
 ```
 
-## Express Installation 
+## Express Setup 
 
-this lets us run our server without having to reopen and restart
+![installation](./photos/installationSteps.png)
 
-##
+    ‣ package.json file will have your dev dependencies  
+    ‣ package-lock.json will hold express v
+    ‣ nodemon prevents having to restart your terminal
 
+## Req Res Port & LocalHost:3000
+
+## HTTP Verbs
+
+## Get Method
+
+## Browser vs Postman
+
+(two videos)
 
 
 ## Source Reference 
 
 - [npm](https://www.npmjs.com/)
-- [express](https://www.npmjs.com/package/express)
-- []()
+- [npm express](https://www.npmjs.com/package/express)
+- [express](https://expressjs.com/)
 
 ## LINKS
 
