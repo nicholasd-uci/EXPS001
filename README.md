@@ -28,6 +28,12 @@
 
 ## HTTP Verbs
 
+![httpVerbs](./photos/httpVerbs.png)
+
+    ‣ HTTP Verbs are "request methods to indicate the desired action to be performed" 
+    ‣ Each Verb represent a action 
+    ‣ There 4 are the most common used for developers
+
 ## Get Method
 
 ## Browser vs Postman
@@ -40,6 +46,7 @@
 - [npm](https://www.npmjs.com/)
 - [npm express](https://www.npmjs.com/package/express)
 - [express js](https://expressjs.com/)
+- [MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 ## LINKS
 
